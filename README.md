@@ -30,7 +30,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[RAG Prompt-Injection Detection](https://github.com/nadeem015/rag-prompt-injection-detection)** | Screens RAG queries and retrieved chunks for prompt-injection attacks with rule, TF-IDF and hybrid detectors. Best F1 is 0.88 at about 1 ms per chunk. Includes a Streamlit app and fully verified results. | scikit-learn · Streamlit |
-| **[WordPress Vulnerability Scanner](https://github.com/nadeem015/Scaning-for-Vulnerabilities)** | Detects a site's CMS, finds its plugins and themes, and checks them against the WPScan vulnerability database | Flask · SQLite · WPScan |
+| **[WordPress Vulnerability Scanner](https://github.com/nadeem015/wordpress-vulnerability-scanner)** | Detects a site's CMS, finds its plugins and themes, and checks them against the WPScan vulnerability database | Flask · SQLite · WPScan |
 
 ### 🧠 Machine learning and NLP
 
