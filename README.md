@@ -1,11 +1,11 @@
-# Hi, I'm M. A. Nadeem Ahmed 👋
+# Hi, I'm Nadeem Mohammed 👋
 
 **Computer science student and Python developer** working on **machine learning, NLP and AI security**. I like turning research ideas into working, tested software: detectors for prompt-injection attacks on LLM systems, human-in-the-loop annotation tools, and full-stack web apps.
 
 - 🔬 Research: prompt-injection detection for retrieval-augmented generation (RAG)
 - 🧠 Interests: NLP, active learning, LLM security, applied ML
 - 🛠️ I build with Python, FastAPI, scikit-learn, React and Docker
-<!-- - 📫 Reach me: add your LinkedIn / portfolio / email here -->
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/nadeem015/)
 
 ## 🛠️ Tech I work with
 
