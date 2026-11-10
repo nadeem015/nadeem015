@@ -28,7 +28,3 @@
 | **[Certify: Certificate Studio](https://github.com/nadeem015/Certificate-Studio)** | Full-stack app that generates up to 500 PDF certificates per batch, with live preview, progress tracking and downloads | FastAPI · SQLAlchemy · ReportLab · JS |
 | **[WordPress Vulnerability Scanner](https://github.com/nadeem015/Scaning-for-Vulnerabilities)** | Web tool that detects a site's CMS, finds its plugins and themes, and checks them against the WPScan vulnerability database | Flask · SQLite · WPScan |
 | **[Password Generator](https://github.com/nadeem015/Password-Generator)** | Secure command-line password generator with guaranteed character rules and unit tests | Python · secrets |
-
-## 📊 GitHub stats
-
-![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadeem015&show_icons=true&hide_border=true)
